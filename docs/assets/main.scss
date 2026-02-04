@@ -2,6 +2,7 @@
 # This ensures Jekyll reads the file to be combined into main.css
 ---
 
+$minima-skin: "dark";
 @import "minima";
 
 .site-footer {
