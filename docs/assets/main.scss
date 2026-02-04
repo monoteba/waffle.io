@@ -2,8 +2,22 @@
 # This ensures Jekyll reads the file to be combined into main.css
 ---
 
-@import "minima/skins/dark";
+$brand-color:           #82adff;
+$site-title-color:      #fdfdfd;
+$text-color:            #e2e2e2;
+$background-color:      #181a1b;
+$code-background-color: #242729;
+$link-base-color:       #79b8ff;
+$link-visited-color:    #c58af9;
+$border-color-01:       #373c3e;
+$border-color-02:       #4d5356;
+$border-color-03:       #111;
+
 @import "minima";
+
+.site-nav {
+  display: none;
+}
 
 .site-footer {
   display: none;
