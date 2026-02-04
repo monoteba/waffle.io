@@ -1,1 +1,1 @@
-# Waffle
+# Image of the day
