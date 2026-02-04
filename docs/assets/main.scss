@@ -1,0 +1,9 @@
+---
+# This ensures Jekyll reads the file to be combined into main.css
+---
+
+@import "minima";
+
+.site-footer {
+  display: none;
+}
