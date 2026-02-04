@@ -1,7 +1,5 @@
 theme: minima
   skin: dark
   date_format: "%d-%m-%Y"
-  nav_pages:
-    - index.md
 title: Waffle
 description:
